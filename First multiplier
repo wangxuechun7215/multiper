@@ -24,3 +24,4 @@ module FirstRowMultiplier (
     .cout(cout),
     .sum(s)
 );
+enmodule
